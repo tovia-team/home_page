@@ -54,9 +54,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 <h4>Back-End</h4>
 <div>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazon s3&logoColor=white">
-  <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white">
-  <img src="https://img.shields.io/badge/amazon RDS-527FFF?style=for-the-badge&logo=amazon RDS&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-327FFF?style=for-the-badge&logo=Node.js&logoColor=white">
 </div>
 <h4>Front-End<h4>
