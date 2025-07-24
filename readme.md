@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Tovia WEB 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+## How to Deploy Web Site
+
+In the project directory, you can deploy:
+
+### `yarn deploy`
 
 ## Available Scripts
 
@@ -31,40 +37,42 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `yarn eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Dev. 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+|                                                        Team                                                        |     Name     |         Position         |GitHub|Blog| E-mail                                         |
+|:------------------------------------------------------------------------------------------------------------------:|:------------:|:------------------------:|:--:|:--:|------------------------------------------------|
+| <img src="" width="110"> | Min-Seo Park | Undergraduate Researcher |<a href="https://github.com/minseo2000">GitHub</a>|<a href="https://simsimit00.tistory.com/">Tistory</a>| qlqlxks123@naver.com<br/>pms1001@dongguk.ac.kr |
+| <img src="" width="110"> |  Jang | Undergraduate Researcher |<a href="https://github.com/minseo2000">GitHub</a>|<a href="https://simsimit00.tistory.com/">Tistory</a>| qlqlxks123@naver.com<br/>pms1001@dongguk.ac.kr |
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Stack.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<h4>You can use belowing <a href="https://simpleicons.org/">Here</a>
 
-### Code Splitting
+<h4>Back-End</h4>
+<div>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazon s3&logoColor=white">
+  <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white">
+  <img src="https://img.shields.io/badge/amazon RDS-527FFF?style=for-the-badge&logo=amazon RDS&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-327FFF?style=for-the-badge&logo=Node.js&logoColor=white">
+</div>
+<h4>Front-End<h4>
+<div>
+  <img src="https://img.shields.io/badge/React-02569B?style=for-the-badge&logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+# Tools
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<div>
+  <img src="https://img.shields.io/badge/Lucid-282C33?style=for-the-badge&logo=lucid&logoColor=white">
+  <img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</div>
