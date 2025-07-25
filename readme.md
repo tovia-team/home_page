@@ -43,7 +43,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 |                                                        Team                                                        |     Name     |         Position         |GitHub|Blog| E-mail                                         |
 |:------------------------------------------------------------------------------------------------------------------:|:------------:|:------------------------:|:--:|:--:|------------------------------------------------|
 | <img src="" width="110"> | Min-Seo Park | Undergraduate Researcher |<a href="https://github.com/minseo2000">GitHub</a>|<a href="https://simsimit00.tistory.com/">Tistory</a>| qlqlxks123@naver.com<br/>pms1001@dongguk.ac.kr |
-| <img src="" width="110"> |  Jang | Undergraduate Researcher |<a href="https://github.com/minseo2000">GitHub</a>|<a href="https://simsimit00.tistory.com/">Tistory</a>| qlqlxks123@naver.com<br/>pms1001@dongguk.ac.kr |
+| <img src="" width="110"> | Beom-Su Jang | Undergraduate Researcher |<a href="https://github.com/minseo2000">GitHub</a>|<a href="https://simsimit00.tistory.com/">Tistory</a>| qlqlxks123@naver.com<br/>pms1001@dongguk.ac.kr |
 
 
 
